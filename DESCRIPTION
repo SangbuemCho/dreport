@@ -1,10 +1,9 @@
 Package: dreport
-Type: Package
 Title: Create Duncan report in form of manuscript
-Version: 1.0
-Date: 2020-01-01
-Author: Sangbuem Cho
-Maintainer: chosb73@jbnu.ac.kr
+Version: 0.0.0.9000
+Authors@R: person("Sangbeum", "Cho", email = "chosb73@jbnu.ac.kr", role = c("aut", "cre"))
 Description: work with single list
+Depends: R (>= 3.3.0)
 License: RUMENO
-RoxygenNote: 7.0.2
+Encoding: UTF-8
+LazyData: true
