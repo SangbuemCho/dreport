@@ -1,0 +1,10 @@
+Package: dreport
+Type: Package
+Title: Create Duncan report in form of manuscript
+Version: 1.0
+Date: 2020-01-01
+Author: Sangbuem Cho
+Maintainer: chosb73@jbnu.ac.kr
+Description: work with single list
+License: RUMENO
+RoxygenNote: 7.0.2
